@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Amazon/bin/Debug
+/src/Amazon/bin/Debug/Amazon.dll.mdb
+/src/Amazon/bin/Debug/Xamarin.Forms.Core.dll
+/src/Amazon/bin/Debug/Xamarin.Forms.Core.xml
+/src/Amazon/bin/Debug/Xamarin.Forms.Xaml.dll
+/src/Amazon/bin/Debug/Xamarin.Forms.Xaml.xml
+/src/Amazon/obj/Debug
