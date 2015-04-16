@@ -9,3 +9,8 @@
 /src/Amazon/bin/Debug/Xamarin.Forms.Xaml.dll
 /src/Amazon/bin/Debug/Xamarin.Forms.Xaml.xml
 /src/Amazon/obj/Debug
+/packages
+/src/Amazon.iOS/obj/iPhoneSimulator/Debug
+/src/packages
+/src/Amazon.sln.DotSettings.user
+/src/Amazon.iOS/Amazon.iOS.csproj.user
